@@ -1,0 +1,42 @@
+body {
+	margin: 0 auto;
+}
+
+header {
+	background-color: orange;
+	height: 100px;
+	width: 100%;
+	margin-bottom: 30px;
+	padding: 10px;
+}
+
+h1 {
+	margin: 0;
+}
+
+
+.box {
+	height: 300px;
+	margin: 0;
+	padding: 0;
+}
+
+.column1, .column2 {
+	margin-bottom: 20px;
+	padding-left: 0;
+	padding-right: 0;
+
+}
+
+.text-box {
+	border: .50px solid grey;
+	padding: 20px;
+	margin: 0;
+	font-size: 15px;
+	height: auto;
+	width: auto;
+}
+
+.row {
+	font-size: 0;
+}
